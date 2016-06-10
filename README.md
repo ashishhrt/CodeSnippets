@@ -1,2 +1,2 @@
 # CodeSnippets
-Programs written during practise and self use.
+Programs written for practise and self use.
